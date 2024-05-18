@@ -57,10 +57,10 @@ Start the server
   pnpm run dev
 ```
 
-## Author
+<!-- ## Author -->
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+<!-- Crafted with 🤍 by [@satnaing](https://github.com/satnaing) -->
 
-## License
+<!-- ## License -->
 
-Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+<!-- Licensed under the [MIT License](https://choosealicense.com/licenses/mit/) -->
